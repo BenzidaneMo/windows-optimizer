@@ -1,0 +1,17 @@
+[Wed 10/28/2026 16:37:16.97] Optimizer started
+[Wed 10/28/2026 16:38:45.76] RAM before - Used: 7.11 GB / Total: 15.85 GB
+[Wed 10/28/2026 16:38:45.78] Clearing standby list and working sets with RAMMap64
+[Wed 10/28/2026 16:38:48.39] RAM after - Used: 5.86 GB / Total: 15.85 GB
+[Wed 10/28/2026 16:39:03.63] Windows Update paused until 2026-12-02
+[2026-10-28 16:39:32] No enabled startup entries matched apps.txt
+[Wed 10/28/2026 16:39:44.47] Saved the current power plan so it can be restored
+[Wed 10/28/2026 16:39:44.82] Switched to the Ultimate Performance power plan
+[Wed 10/28/2026 16:43:29.41] RAM before - Used: 5.98 GB / Total: 15.85 GB
+[Wed 10/28/2026 16:43:29.42] Cleaning temp folders
+[Wed 10/28/2026 16:43:29.59] Closing apps listed in apps.txt
+[Wed 10/28/2026 16:43:30.21] RAM after - Used: 5.99 GB / Total: 15.85 GB
+[2026-10-28 16:43:30] No enabled startup entries matched apps.txt
+[Wed 10/28/2026 16:43:31.21] Switched to the Ultimate Performance power plan
+[Wed 10/28/2026 16:43:31.71] RAM before - Used: 5.98 GB / Total: 15.85 GB
+[Wed 10/28/2026 16:43:31.73] Clearing standby list and working sets with RAMMap64
+[Wed 10/28/2026 16:43:33.10] RAM after - Used: 5.07 GB / Total: 15.85 GB

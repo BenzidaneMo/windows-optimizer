@@ -1,0 +1,17 @@
+# Apps the optimizer closes (menu option 1) and stops from starting with Windows (option 4).
+# One .exe name per line. Lines starting with # are ignored.
+OneDrive.exe
+Teams.exe
+AdobeIPCBroker.exe
+AdobeCollabSync.exe
+ArmouryCrate.UserSessionHelper.exe
+GameSDK.exe
+NahimicService.exe
+AuraService.exe
+
+# Suggested extras for other laptops - remove the # to enable:
+# YourPhone.exe
+# XboxGameBar.exe
+# HPHotkeyMonitor.exe
+# DellSupportAssistRemedation.exe
+# LenovoVantageService.exe
